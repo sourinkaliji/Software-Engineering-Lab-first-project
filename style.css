@@ -1,0 +1,16 @@
+.btn {
+  background-color: aqua;
+  color: blue;
+  font-size: large;
+  font-weight: 600;
+  border: none;
+  border-radius: 20px;
+  padding: 5px 10px;
+  box-shadow: 5px 5px 10px aquamarine;
+  transition: all;
+  transition-duration: 300ms;
+}
+.btn:hover {
+  scale: 110%;
+  box-shadow: 5px 5px 30px aqua;
+}
